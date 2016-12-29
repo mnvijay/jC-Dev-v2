@@ -392,7 +392,9 @@ display: inline-block;
     cursor:text;
 }
 
-
+.container-fluid {
+    height: 100vh;
+}
 
 
 html * {
