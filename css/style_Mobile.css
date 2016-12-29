@@ -38,6 +38,10 @@
     .m_section3Header{
         font-size: 25px;}
     
+    .m_section3Header1{
+        font-size: 25px;
+    margin-left: }
+    
     .m_section3p{
         font-size:14px;
     margin-top: 6em;}
@@ -50,8 +54,8 @@
         font-weight:300;
         text-align: center;
         position: absolute;
-        left: 70%;
-        margin-left: -180px;
+        left: 50%;
+        margin-left: -120px;
         max-width: 360px;
         letter-spacing: 1px;
         
@@ -299,6 +303,18 @@ a#chk {
     font-weight: 300;
 }
 
+.m_section3Header1{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    text-align: center;
+     max-width: 360px;
+    position: absolute;
+    left: 50%;
+    margin-left: -130px;
+    margin-top:;
+    font-weight: 300;
+}
+
 .m_section3p{
     font-family: 'Roboto Slab', serif;
     color: white;
@@ -345,10 +361,10 @@ a#chk {
 }
 
 #m_playStore{
-    margin-top: 16em;
+    margin-top: 14em;
     position: absolute;
-    left: 70%;
-    margin-left: -110px;
+    left: 50%;
+    margin-left: -130px;
 }
 
 .m_footerTop{
