@@ -4,10 +4,10 @@
         margin-top:24em;}
     
     .m_section3Header{
-        font-size: 20px;}
+        font-size: 15px;}
      
     .m_section3p{
-        font-size: 15px;}
+        font-size: 10px;}
     
     .m_footerL2H2{
         margin-top: 1em;}
@@ -23,7 +23,7 @@
         margin-top: 18.5em}
 
     .m_gigsP{
-        font-size: 14px;}
+        font-size: 9px;}
 }
 
 @media (min-width:321px){
@@ -34,10 +34,10 @@
         margin-top:26em;}
 
     .m_section3Header{
-        font-size: 30px;}
+        font-size: 25px;}
     
     .m_section3p{
-        font-size:19px;}
+        font-size:14px;}
     
     #m_footerL3{
     height: 120px;
@@ -47,11 +47,11 @@
         margin-top: 3em;}
     
     .m_gigSectionHeader{
-        font-size: 25px;
+        font-size: 20px;
         margin-top: 15em;}
 
     .m_gigsP{
-        font-size: 19px;}
+        font-size: 14px;}
 }
 
 
@@ -407,15 +407,6 @@ html * {
   box-sizing: border-box;
 }
 
-@font-face{
-    font-family: "Roboto Slab";
-    src: url("/fonts/roboto-slab/RobotoSlab-Light.ttf");
-}
-
-@font-face{
-    font-family: "Pacifico";
-    src: url("/fonts/Pacifico/Pacifico.ttf")   ;
-}
 
 ::-webkit-scrollbar { 
     display: none; 
